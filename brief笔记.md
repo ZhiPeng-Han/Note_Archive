@@ -1,4 +1,4 @@
-![This is a photo](https://d3e6o3xmbgc08e.cloudfront.net/cms-images/header-images/destinations/edinburgh?size=md)
+![This is a photo][def]
 
 ##第一次MEETING的任务
 
@@ -170,3 +170,5 @@ TLML diagram redrawing, study in the sense of structure and lines of multiple la
 3.Exhibition Improve (start from model and TLML scale)
 模型可以做一些细节上的改进。
 TLML图的重新绘制，在结构和线条的多层次感上进行研究，简明扼要，索引清晰。
+
+[def]: https://d3e6o3xmbgc08e.cloudfront.net/cms-images/header-images/destinations/edinburgh?size=md

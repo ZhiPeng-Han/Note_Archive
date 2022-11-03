@@ -1,15 +1,8 @@
-# python
-temp = input("Guess what the number is in my mind:")
-guess = int(temp)
-while guess != 8:
-        if guess == 8:
-                print("yep!")
-                print("amazing!")
-        else:
-                if guess > 8:
-                    print("bigger")
-                else:
-                    print("smaller")
-        temp = input("wrong!Guess what the number is in my mind:")
-        guess = int(temp)
-print("end^_^")		 
+# Note_Archive
+一个笔记整理系统
+归档琐碎的知识
+输出阶段性的思考
+系统化学习的过程
+不断更新 不断忘记 不断沉淀
+
+## 谨慎归档。记录，思考，忘记一切
