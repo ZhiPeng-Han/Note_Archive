@@ -1,0 +1,74 @@
+{
+    "root": {
+        "data": {
+            "id": "co244a2ffz40",
+            "created": 1667422988393,
+            "text": "MainTopic"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "co244i8h4sw0",
+                    "created": 1667423006172,
+                    "text": "fjnjnjnfv",
+                    "layout_mind_offset": {
+                        "x": -28,
+                        "y": 4
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "co246fue4rs0",
+                    "created": 1667423157696,
+                    "text": "topic"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "co246ffv9mg0",
+                            "created": 1667423156817,
+                            "text": "topic"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "co244jgzvko0",
+                                    "created": 1667423008864,
+                                    "text": "topic",
+                                    "image": "https://oss.gooood.cn/uploads/2015/07/_c_PvpxwRlIAPvCVEZjILZXVGjhwmbUJIwDROGc21Ig5l9tvFP__EZcxQ_rjIQmc_WY_oItkLXFzVX7dX464rUmmek3mfDizsKA-960x1179.jpg",
+                                    "imageTitle": "sddf",
+                                    "imageSize": {
+                                        "width": 162,
+                                        "height": 200
+                                    },
+                                    "layout_left_offset": {
+                                        "x": -12,
+                                        "y": 68
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "co248zbz1gg0",
+                                    "created": 1667423356846,
+                                    "text": "topic",
+                                    "layout_left_offset": {
+                                        "x": -32,
+                                        "y": -290
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
