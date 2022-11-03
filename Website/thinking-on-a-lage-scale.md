@@ -1,8 +1,17 @@
+---
+title: 'Thinking on a lage scale'
+date: 2019-11-15 14:30:52
+tags: [Index,Study]
+published: true
+hideInList: false
+feature: /post-images/thinking-on-a-lage-scale.jpg
+isTop: false
+---
 对建筑学科的一些个人理解
 
 <!-- more -->
 
-![1](file://C:/Users/billpower/Documents/Gridea/post-images/1611758290717.png)
+![](https://zhipenghan.com/post-images/1611758290717.png)
 
 建筑的过于分化导致了它的复杂——并不是本身神秘
 分化导致不同的职能之间对未知的接轨消耗了大量精力
@@ -25,5 +34,5 @@
 **面对工具**
 不要被工具，手法，方式，技术限制，就是之前说的，不要被某一喜欢的形式所困，要巧用
 工具只是工具，虽然可以反过来拓宽目的和能力
-![](file://C:/Users/billpower/Documents/Gridea/post-images/1611759920405.jpg)
-![](file://C:/Users/billpower/Documents/Gridea/post-images/1611760082329.jpg)
+![](https://zhipenghan.com/post-images/1611759920405.jpg)
+![](https://zhipenghan.com/post-images/1611760082329.jpg)
