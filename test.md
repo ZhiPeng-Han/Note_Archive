@@ -15,7 +15,7 @@ time may be `this is the importent one part to think`
 ```
 局部的代码块可以被这样标注出来,so use English to wright is better.
 ```
->这是应用的部分
+>这是引用的部分
 
 [点击文字就可以打开连接](https://www.ifanr.com/1318978)
 [十分钟入门 Markdown 写作](https://segmentfault.com/a/1190000039928775)

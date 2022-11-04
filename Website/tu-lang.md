@@ -29,3 +29,8 @@ kdmfkdsm
 ![](https://zhipenghan.com/post-images/1667498285368.jpg)
 ![](https://zhipenghan.com/post-images/1667498287757.jpg)
 
+<figure class="third">
+    <img src="https://zhipenghan.com/post-images/1667498285368.jpg" width="200"/>
+    <img src="https://zhipenghan.com/post-images/1667498285368.jpg"width="200"/>
+    <img src="https://zhipenghan.com/post-images/1667498285368.jpg"width="200"/>
+</figure>
