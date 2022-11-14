@@ -1,22 +1,48 @@
-这个是我在爱丁堡的主要研究项目
+## 自我介绍 Tell me a little about yourself 一点点缺点
+首先，我叫韩志鹏，家乡是杭州。
+我喜欢设计和构建，所以选择了建筑师作为我的目标。
+我在7年的建筑设计学习过程中积累了很多设计方法、新技术和建筑哲学理论。
+借此我以优异的成绩拿到了学士和硕士学位。
+我学东西非常快，喜欢面对有挑战的问题，比较喜欢钻研新技术。
+我非常遵守工作计划，并且我也擅长组织工作，我在学校的合作设计项目中经常担任leader。
+如今我准备开始迎接新的挑战。
+First of all, my name is Han Zhipeng and my hometown is Hangzhou.
+I love designing and building, so I chose architect as my goal.
+I have gained a lot of design methods, new techniques and philosophy theories during my seven years of architectural studies.
+With this I received my Bachelor and Master degrees with distinction.
+I am a quick learner, I like to face challenging problems and I prefer to investigate new technologies.
+I follow work schedules very closely and I am also good at organising.
+I have often been a team leader in design projects at school.Now I am ready to take on new challenges.
+
+我的缺点就是，我遇到感短时间内无法解决的问题时，我可能会一直钻研这个问题。在这个时候，这可能就会影响到其他工作的进度。
+My downfall is that when I encounter a problem that I feel I can't solve in a short time, I may keep drilling into the problem. it may interfere with the progress of other work.
 
 
 
 
-简练干净
 
 # 介绍
-## 山地住宅单元
-安藤忠雄的山地集合住宅给了我启发。程序生成的形态的实验性设计，目的是辅助设计者在面对复杂的山地场地环境时，形成契合环境的形态mode，
-因为这个项目的实验性质，我以探索构建方法论为目标。基于不同的mode迭代算法，形成不同属性的建筑空间。我主要尝试了三种mode，对应三种不同类型的住宅单元模式。将这些空间进一步构建细节，形成了非常独特的空间形式。
-这个研究过程形成的基本方法论，在多种不同的山地场地环境中生成住宅单元。进一步的可以发展为山地村落群。
-## Forming Accessiblity 构建可达性
-底特律的萧条让城市中的建筑被称为底特律非军事化的防御性建筑。
+## 1 山地住宅单元
+这是一个通过程序生成形体的实验性设计。Ando的Rokko Housing给了我启发，山地建筑可以有一套基本的形体逻辑来应对不同的场地环境。我的设计目的是通过程序生成的建筑形体辅助设计者来应对复杂的山地场地。
+首先，我在山地场地图纸中构建简化后的wander算法。调整运行并输出一系列契合环境的path作为构建形态的基础。这个过程中的重点是调整path面对不同的场地元素时的行为。
+下一步，我开始尝试从path生成形体。通过不断迭代算法，以及在不同的地形类型上的实验。path形成了一系列mode，并且不同的mode形成了不同属性的空间。我选择了三种mode，对应三种不同类型的住宅单元模式。
+最后，建筑师可以在这些mode的基础上，根据实际功能需要进一步构建细节。
+这个过程就为山地住宅单元构建了一个基于算法的方法论。并且这些住宅单元进一步可以组合发展为山地村落群。
+整个探索性的过程对我来说很有吸引力，每一步的不可预测性使得设计更像是实验的过程。这不仅会让我学到很多，并且这会产生很多意料之外的结果。
+This is an experimental design that generates form through a process. I was inspired by Ando's Rokko Housing: mountain buildings can have a basic form logic to cope with different site. My aim is to create a program generated building form to assist the designer in dealing with the complex mountain site.
+First, I build the simplified wander algorithm in a mountain site plan. The algorithm is adapted, run, and outputs a series of paths that fit the environment and are used as a base framework for building the space.The point of this stage is to adjust how the PATH is affected by the different site elements.
+In the next step, I began to experiment with generating forms from path.By continuously iterating the algorithm and experimenting on different terrain types.The path generated a series of modes, and the different modes formed spaces with different properties.I chose three modes, corresponding to three different types of residential units.
+This process creates an algorithm-based methodology for mountain residential units. And these units can be further combined and developed into mountain villages.
+The whole exploratory process is fascinating to me and the unpredictability of each step makes the design more like an experiment. Not only did I learn a lot, but this led to many unexpected results.
+
+## 2 Forming Accessiblity 构建可达性
+底特律的萧条让这座城市中的建筑被称为“非军事化的防御性建筑”。
 城市被隔离成两个部分：一个是建筑内舒适安全的伊甸园，另一个是危机四伏中的野外。
 我们希望在其中构建可达性。这是一个城市中的空间和经济实验。
-我们从被自然侵蚀的建筑边界中提取语言，将其称为poche的方式，用poche拟合发展城市平面。然后在更小尺度上，通过poche拟合剖面，进一步构建可达性空间，这些空间成为了扩展可达性的边界和孔洞。
+我们从被自然侵蚀的建筑边界中提取语言，将其称为poche的方式，用poche拟合发展城市平面。
+然后在更小尺度上具体的建筑空间中，通过poche拟合剖面，进一步构建可达性空间，这些空间成为了扩展可达性的边界和孔洞。
 它将公众带回街道，并引入一个包容性的建筑边缘。重新构建的空间和视线链接，加强了街道安全，为城市的变革孕育机会。
-## Underwater Temple
+## 3 Underwater Temple
 GANGES Water purification tower IN INDIA 这是一个结合净水功能和恒河传统节日Kumbh Mela的建筑。
 恒河是印度教最神圣的河流之一，它也是数以百万计的底层印度人的生命线。
 然而，恒河遭受着极端的污染，许多城市的污水、工业垃圾，大量的污染物被添加到河流中。这是由生活在恒河附近的4亿人造成的。
@@ -25,7 +51,7 @@ GANGES Water purification tower IN INDIA 这是一个结合净水功能和恒河
 通过多个单元的组合，一个水下垂直寺庙被构建起来。人们可以用潜水设备潜水，也有不同高度的平台 
 提供祭拜的空间和舞台。这些空间也同时是田螺的栖息地，当地渔民也会养殖田螺获取收益。
 神圣的水下寺庙成为恒河中的圣地，同时它也在不断的改善恒河的水质。
-## Freezing Art History in Space
+## 4 Freezing Art History in Space
 这个项目中我们希望借助AI，将绘画和雕塑的艺术风格凝固在建筑空间中。
 格拉斯哥艺术大学（GSA）建于新艺术运动时期，麦金托什设计。然而，它在两场大火中遭到严重破坏。
 我们希望通过机器设计方法，同时保留建筑原有的结构框架，并加入转移的新艺术主义风格，重建格拉斯哥艺术大学的教学楼。
@@ -34,10 +60,8 @@ GANGES Water purification tower IN INDIA 这是一个结合净水功能和恒河
 然后这些风格化二维图像被提取体素点。包含不同信息的点云被筛选分离，并对应不同的材料。
 最后这些体素点拟合形成空间实体，代替那些被烧毁的建筑部分。这也是一个形态的实验设计，思考AI可以形成怎么样的建筑空间。
 
-
 这些是我本科期间的项目，我一直在研究通过各种方法论构建形式以及建筑语言，而我认为我缺少的是形式背后的哲学思考。然后我就开始了硕士的项目。
-
-## Proximity Theater
+## 5 Proximity Theater
 从爱丁堡八月的艺术节得到灵感。
 这项目主要分为设计研究部分和 一城市主义和自然哲学为指导的论文部分
 
@@ -52,36 +76,65 @@ iterative process emerges at different scales to form different ecologies of pro
 archipelago and the ecological value system
 
 而在论文部分具体阐述了这些概念逻辑和方法论的实验迭代过程。
-
 我们的毕业show，同样设计了光影部分，帮助我们展示整体概念，被eca选中。
-
 这个项目我得到了85分，并且拿到了distinction。
+# appendix
+这是我在gad的实习项目。我主要参与了衢州礼贤未来社区的街区公共空间设计和加油站改建设计。我把加油站的屋顶一直错落融入到双水公园中，让加油站成为公园的一部分。并且我遵循模块化的基本单元，这可以大幅度缩短改建和维护的成本和时间，减少加油站对于周边居住区生态绿色环境的影响。
+这也是一个未来社区项目，是对于模块化高层住宅的实验。
 
 
-
-
-
-## 自我介绍 公司为什么选择我
-我喜欢设计和构建各种东西，学东西非常快，喜欢面对有挑战的问题，我比较喜欢钻研新技术，非常遵守工作计划。
-我的缺点就是，我遇到感兴趣短时间无法解决的问题时，我会一直钻研这个问题，在这个时候，可能就会影响到其他工作的进度。
-
-## 公司为什么选择我
-作为刚毕业的建筑学生，我有各种不同设计方法的积累，硕士学习期间的哲学研究，我从2015年就开始研究rhino，gh为工作流的参数化设计，并且一直在学习新的技术和软件（比如我现在正在自学houdini对建筑设计的辅助）。面对新的设计工作流我能够快速的适应，并且加入到工作流中。
+## 公司为什么选择我 我的强项 我的优势
+Firstly，我以distinction的成绩拿到了硕士学位。我在学习期间积累了各种不同的设计方法和建筑哲学理论。我从2015年就开始研究rhino，gh为工作流的参数化设计，并且一直在学习新的技术和软件（比如我现在正在自学houdini对建筑设计的辅助）。
+On the other hand, 面对新的设计工作方法或者是有挑战的问题，我能冷静并且快速的适应，然后投入到工作中去解决问题。
+Firstly, I got my master's degree with distinction. During my studies I accumulated a variety of different design methods and philosophical theories of architecture. I have been working on rhino, grasshopper and parametric design since 2015 and I'm always learning new method and software (for example I am currently learning houdini as an aid to architectural design).
+On the other hand, when faced with a new way of working or a challenging problem, I can adapt calmly and quickly and then get to work to solve it.
+## 可以用哪些软件
+我最擅长的是 Rhinoceros, Grasshopper, cad。渲染类软件我擅长V-Ray，enscape 我的作品中几乎所有的渲染都是在vray中完成的。adobe系列主要擅长ID PS AI，我还会一些Pr的基础技能。因为一直在研究参数化设计和机器学习，我能用python调节参数，或者编写一些小脚本。
 
 ## 为什么选择foster，喜欢foster的哪一点
-foster最近落成的新项目和几十年的来的项目一如既往的充满了各种新的建筑技术，形态的探索，为建筑的结构和实际使用服务。而不只是为了浮夸的形体。这些结构和技术需要大量的细节设计，foster对于大尺度整体空间氛围和小尺度的建筑细节的把控都做到了极致。比如说
-2019 - Edinburgh, UK Quartermile development
+创造性和高质量工作方式和环境对于我来说非常重要。
+foster的项目一直保持着各种新建筑技术和形态的探索。并且这些都为建筑的结构和实际使用服务，而不只是为了浮夸的形体。这些结构和技术需要大量的细节设。foster对于大尺度整体空间氛围和小尺度建筑细节的把控都做到了极致。比如说
+2017 - Shanghai, China Bund Finance Cente
 2017 - London, UK Bloomberg
-能参与这些地标性的高质量的建筑设计 是我作为年轻设计师所向往的。
+能参与到这些地标性的高质量的建筑设计工作中，是我作为刚毕业的设计师所向往的。
+我非常想在foster+partner开始新的人生阶段，并且杭州是我的家乡。所以这是我的梦想工作。
+Creativity and high quality working styles and environments are very important to me.The projects at foster have always maintained the exploration of various new building techniques and forms. These serve the structural and practical experience of the building and are not just about flashy forms. These structures and techniques require a great deal of detailed design work.
+foster has achieved the ultimate in control of both the overall spatial atmosphere on a large scale and the architectural details on a small scale. For example
+2017 - Shanghai, China Bund Finance Cente
+2017 - London, UK Bloomberg
+Being involved in these landmark, high quality architectural designs is the work I aspire to do as a graduated designer.I want to start a new career at foster+partners and Hangzhou is my hometown. So this is my dream job.
 
-## 未来发展想法
-我非常想在foster+partner开始我的新阶段，并且在这个世界一流的团队中成长5年以上。
-我可以随时开始线上的办公，我在12月1号的毕业典礼结束之后都可以回国工作。
+## 未来发展想法 
+我不知我5年以后怎么想，但是现在我希望能在这个世界顶级的设计团队工作5年以上。最重要的是能够在foster位于全球的各种项目中积累经验，成长为成熟建筑师。
+I don't know how I will answer in 5 years time, but for now I hope to work for more than 5 years in this world class design team. The most important thing is to be able to learn and gain experience in a variety of projects at Foster.  And Growing into a mature architect.
+我可以随时开始线上的办公。我在12月1号的毕业典礼结束之后都可以回国工作。
+I can start working online at any time. I can go back to work in Hangzhou after the graduation ceremony on December 1.
+
+## 你有什么品质 what qualities do you have
+我对于工作非常务实，以用最合适的方式解决问题为目标。
+同时我擅长富有创造性的工作，面对新的设计工作方法或者是有挑战的问题，我能冷静并且快速的适应，然后投入到工作中去解决问题。
+我为人友善，对于同事、客户我都会和对待朋友一样。并且我也善于在团队中组织或者配合工作，我在学校的合作设计项目中经常担任leader。
+最后，我是一个不愿放弃的人。
+I am very pragmatic and aim to solve problems in the most appropriate way.
+I am also good at working creatively. When faced with a new approach to design work or a challenging problem, I can adapt calmly and quickly and then get to work to solve the problem.
+I am a friendly person and I treat my colleagues and clients as if they were my friends. And I am also good at organising or working together in a team, and I often work as a team leader on school design projects. And I am also a person who doesn't want to give up.
+
+## 薪资
+基本年薪180k，月薪11-15k
 
 ## 最近项目
-office building
 Euro America Financial City (EFC)
 ## 最喜欢的项目
 2022 深圳 DJI Sky City
-2019 - Edinburgh, UK Quartermile development
+2017 - Shanghai, China Bund Finance Cente
 2017 - London, UK Bloomberg
+我在伦敦实地参过三次。它为周围的城市空间带来了独特的精致优雅的体验。
+彭博拱廊现在是人们在城市中移动的主要路线。我非常喜欢bronze在其中的使用，a series of large-scale bronze fins不仅是遮阳 节能 通风系统的一部分，又使得整个建筑氛围变得与周围历史建筑一致的庄重，充满了历史的厚重感。
+在实地体验中，这些bronze fins非常巨大且精致优雅，它们的施工精度和实际效果真的让我非常震撼。这让我开始思考，并不是非常特殊的形式才可以给人带来强烈的情感价值。
+同样的内部Clad in bronze的 the Vortex 和polished aluminium panels of ‘petals’以及其他内部细节也与外部一致，美观又同时是建筑功能和节能技术的重要部分。
+I have been on the ground in London three times. It brings a unique experience of refined and elegant urban space to the surrounding area.
+The Bloomberg Arcade is now the main route for people moving around the city. I really like the use of bronze in this, a series of large-scale bronze fins that are not only part of the shading, energy saving and ventilation system, but also give the whole building a dignified atmosphere, full of historical weight. This is in keeping with the surrounding historic buildings.
+In the field, these bronze fins are very large and elegant. I was really impressed by the accuracy of their construction and the actual effect. It made me start thinking about how it gives me such strong emotional value.
+The Vortex clad in bronze and polished aluminium panels of 'petals' and other interior details are also consistent with the exterior, beautiful and an important part of the building's functionality and energy-efficient technology.
+
+2019 - Edinburgh, UK Quartermile development
