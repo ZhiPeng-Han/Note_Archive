@@ -33,32 +33,48 @@ This is an experimental design that generates form through a process. I was insp
 First, I build the simplified wander algorithm in a mountain site plan. The algorithm is adapted, run, and outputs a series of paths that fit the environment and are used as a base framework for building the space.The point of this stage is to adjust how the PATH is affected by the different site elements.
 In the next step, I began to experiment with generating forms from path.By continuously iterating the algorithm and experimenting on different terrain types.The path generated a series of modes, and the different modes formed spaces with different properties.I chose three modes, corresponding to three different types of residential units.
 This process creates an algorithm-based methodology for mountain residential units. And these units can be further combined and developed into mountain villages.
-The whole exploratory process is fascinating to me and the unpredictability of each step makes the design more like an experiment. Not only did I learn a lot, but this led to many unexpected results.
+The whole explorative process was fascinating to me and the unpredictability of each step made the design more like an experiment.i think it is the point of this project. Not only did I learn a lot, but this led to many unexpected results.
 
 ## 2 Forming Accessiblity 构建可达性
-底特律的萧条让这座城市中的建筑被称为“非军事化的防御性建筑”。
-城市被隔离成两个部分：一个是建筑内舒适安全的伊甸园，另一个是危机四伏中的野外。
-我们希望在其中构建可达性。这是一个城市中的空间和经济实验。
-我们从被自然侵蚀的建筑边界中提取语言，将其称为poche的方式，用poche拟合发展城市平面。
-然后在更小尺度上具体的建筑空间中，通过poche拟合剖面，进一步构建可达性空间，这些空间成为了扩展可达性的边界和孔洞。
-它将公众带回街道，并引入一个包容性的建筑边缘。重新构建的空间和视线链接，加强了街道安全，为城市的变革孕育机会。
+这个项目的背景是底特律持续50年的萧条。城市被隔离成两个部分：一个是建筑内舒适安全的伊甸园，另一个是危机四伏中的野外。这座城市中的建筑被称为“非军事化的防御性建筑”。
+我们不可能在短时间内改变现状。我们想要进行一个城市中的空间和经济实验。希望在其中构建可达性，打破城市中的隔离。
+首先，我们从被自然侵蚀的边界中发现城市与自然，Solid and voids，privacy and Public。并且在这些边界中提取语言构建POCHE。
+下一步，我们在街区尺度上，把poche语言与城市平面进行拟合，多次迭代发展。并且在更小尺度上具体的建筑空间中，重构剖面中的poche，进一步构建可达性空间。这些空间成为了扩展可达性的边界和孔洞。
+这些新的包容性的建筑边缘把公众带回街道，并且产生了空间和视线连接，加强了街道安全，为城市的变革孕育机会。
+The location of this project is downtown Detroit. As a result of the 50 years depression in Detroit, the city was isolated into two parts: a comfortable and safe Eden within the buildings and a dangerous wilderness. The buildings in this city have been described as "demilitarised defensive buildings".
+We can't change the depression in a short time. We want to conduct a spatial and economic experiment in the city. and FORMING ACCESSIBILITY in it and break down the isolation in the city.
+Firstly, we think about the city and nature, solid and voids, privacy and public, in the context of building boundaries eroded by nature, and we extract language from these boundaries to build POCHE.
+We fitted the poche language to the urban plan at the neighbourhood scale, developing it by several iterations. These new spaces become boundaries, bridges and holes that FORMING ACCESSIBILITY.
+These new inclusive architectural boundaries bring the public back to the street and generate spatial and visual connections that not only enhance street safety but also breed opportunities for urban evolution.This is the main content of this project.
+
 ## 3 Underwater Temple
-GANGES Water purification tower IN INDIA 这是一个结合净水功能和恒河传统节日Kumbh Mela的建筑。
-恒河是印度教最神圣的河流之一，它也是数以百万计的底层印度人的生命线。
-然而，恒河遭受着极端的污染，许多城市的污水、工业垃圾，大量的污染物被添加到河流中。这是由生活在恒河附近的4亿人造成的。
-我们调研发现蜗牛和牡蛎具有高效的净化能力，并我们通过实验证明水净化的可能性。
-从最小的单元开始构建田螺的附着空间，通过极小的曲面的组合和延伸来创造一系列的空间。
-通过多个单元的组合，一个水下垂直寺庙被构建起来。人们可以用潜水设备潜水，也有不同高度的平台 
-提供祭拜的空间和舞台。这些空间也同时是田螺的栖息地，当地渔民也会养殖田螺获取收益。
-神圣的水下寺庙成为恒河中的圣地，同时它也在不断的改善恒河的水质。
+GANGES Water purification tower IN INDIA是一个结合净水功能和恒河传统节日Kumbh Mela的建筑。
+恒河是印度教最神圣的河流，它也是数以百万计的底层印度人的生命线。
+然而，恒河遭受着极端的污染，大量城市的污水、工业垃圾、污染物被排放到河流中。这是由生活在恒河附近的4亿人造成的。
+我们在前期调研发现田螺和牡蛎具有高效的净水能力，并通过实验证明了它们净化水的可能。
+我们从最小的单元开始探索，用极小曲面构建田螺的附着空间。然后通过极小曲面的组合和延伸来创造一系列不同尺度和属性的空间。
+通过多个单元的组合，水下垂直寺庙被构建起来。人们可以用潜水装备潜水进入，也有不同高度的平台提供祭拜的空间和舞台。这些空间也同时是田螺的栖息地，当地渔民也会养殖田螺获取收益。
+当它也在不断的改善恒河的水质时候，宏伟的水下寺庙就成为圣地恒河中的圣地。
+The Underwater Temple IN INDIA is a building that combines the water purification function with the traditional festival of Kumbh Mela on the Ganges.
+The Ganges is India's most sacred river, and it is also the lifeline for millions of underclass Indians.
+However, the Ganges suffers from extreme pollution, with large amounts of sewage, industrial waste and pollutants from the city being released into the river. This is caused by the 400 million people who live near the Ganges.
+In our previous research, we found that snails and oysters are highly effective in purifying water, and we have proved through experiments that they are highly effective in it.
+We started the design from the smallest unit, using minimal surface to build the space of attachment of the snails. We then combine and extend the minimal surfaces to create a series of spaces of different scales and functions.
+Further, through the combination of several units, underwater temples are constructed. It can be accessed by diving equipment, and there are also platforms of different heights that provide spaces and stages for worship. 
+These spaces also provide a habitat for snails, which are farmed for profit by local fishermen.
+While it is also improving the water quality of the Ganges, the magnificent underwater temple has become a sacred site in the Ganges.
+
 ## 4 Freezing Art History in Space
 这个项目中我们希望借助AI，将绘画和雕塑的艺术风格凝固在建筑空间中。
-格拉斯哥艺术大学（GSA）建于新艺术运动时期，麦金托什设计。然而，它在两场大火中遭到严重破坏。
-我们希望通过机器设计方法，同时保留建筑原有的结构框架，并加入转移的新艺术主义风格，重建格拉斯哥艺术大学的教学楼。
-我使用了机器学习中的CNN（卷积神经网络）应用方法。
-我们将三维空间切片成为一系列二维剖面，不同的部分对应于不同的风格转移元素。
-然后这些风格化二维图像被提取体素点。包含不同信息的点云被筛选分离，并对应不同的材料。
-最后这些体素点拟合形成空间实体，代替那些被烧毁的建筑部分。这也是一个形态的实验设计，思考AI可以形成怎么样的建筑空间。
+格拉斯哥艺术大学（GSA）建于新艺术运动时期，由麦金托什设计。然而，它在两场大火中遭到严重破坏。如何重建成为了当时争论不断的问题。
+我们思考在这个设计问题上，通过机器设计方法，进行空间生成实验。保留gsa灾后现存的结构作为框架，加入新艺术主义风格训练下的ai生成的空间，重建gsa的教学楼。
+首先，我们做了一些文献综述，选择了机器学习中的CNN（卷积神经网络）作为ai训练模型。
+第二步，我们将三维空间切片成为一系列二维剖面。把这些二维剖面输入经过训练的模型会输出新艺术风格影响下的新剖面。不同的建筑部分对应不同风格的作品进行训练。
+下一步，这些风格化二维图像被从新排练形成三维空间切片。进一步通过图像像素提取体素点。这些包含不同信息的点云被筛选分组，以对应不同的材料和拟合方式。
+最后，被处理之后的有效的体素点拟合形成空间实体，代替那些被烧毁的建筑部分。
+这个过程中我们设想了一种利用现在日益成熟的图像ai技术来构建特殊的建筑空间的方法。通过阅读文献在现有的技术上进一步的探索是我在这个项目最大的收获。
+For this project I wanted to use AI to freeze the artistic style of painting and sculpture in the architectural space. The Glasgow School of Art (GSA) was built during the Art Nouveau period and designed by Mackintosh. However, it was severely damaged in two fires. How to rebuild it became a controversial issue at the time.
+
 
 这些是我本科期间的项目，我一直在研究通过各种方法论构建形式以及建筑语言，而我认为我缺少的是形式背后的哲学思考。然后我就开始了硕士的项目。
 ## 5 Proximity Theater
@@ -132,9 +148,9 @@ Euro America Financial City (EFC)
 彭博拱廊现在是人们在城市中移动的主要路线。我非常喜欢bronze在其中的使用，a series of large-scale bronze fins不仅是遮阳 节能 通风系统的一部分，又使得整个建筑氛围变得与周围历史建筑一致的庄重，充满了历史的厚重感。
 在实地体验中，这些bronze fins非常巨大且精致优雅，它们的施工精度和实际效果真的让我非常震撼。这让我开始思考，并不是非常特殊的形式才可以给人带来强烈的情感价值。
 同样的内部Clad in bronze的 the Vortex 和polished aluminium panels of ‘petals’以及其他内部细节也与外部一致，美观又同时是建筑功能和节能技术的重要部分。
-I have been on the ground in London three times. It brings a unique experience of refined and elegant urban space to the surrounding area.
+I have visited the site three times. It brings a unique experience of refined and elegant urban space to the surrounding area.
 The Bloomberg Arcade is now the main route for people moving around the city. I really like the use of bronze in this, a series of large-scale bronze fins that are not only part of the shading, energy saving and ventilation system, but also give the whole building a dignified atmosphere, full of historical weight. This is in keeping with the surrounding historic buildings.
 In the field, these bronze fins are very large and elegant. I was really impressed by the accuracy of their construction and the actual effect. It made me start thinking about how it gives me such strong emotional value.
-The Vortex clad in bronze and polished aluminium panels of 'petals' and other interior details are also consistent with the exterior, beautiful and an important part of the building's functionality and energy-efficient technology.
+The Vortex clad in bronze and polished aluminium panels of 'petals' and other interior details are also consistent with the exterior, They are beautiful and an important part of the building's functionality and energy-efficient technology.
 
 2019 - Edinburgh, UK Quartermile development
