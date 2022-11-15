@@ -67,16 +67,23 @@ While it is also improving the water quality of the Ganges, the magnificent unde
 ## 4 Freezing Art History in Space
 这个项目中我们希望借助AI，将绘画和雕塑的艺术风格凝固在建筑空间中。
 格拉斯哥艺术大学（GSA）建于新艺术运动时期，由麦金托什设计。然而，它在两场大火中遭到严重破坏。如何重建成为了当时争论不断的问题。
-我们思考在这个设计问题上，通过机器设计方法，进行空间生成实验。保留gsa灾后现存的结构作为框架，加入新艺术主义风格训练下的ai生成的空间，重建gsa的教学楼。
+我们把这个设计问题作为基础，通过机器学习辅助设计，进行空间生成实验。保留gsa灾后现存的结构作为框架，加入新艺术主义风格训练下的ai生成的空间，重建gsa的教学楼。
 首先，我们做了一些文献综述，选择了机器学习中的CNN（卷积神经网络）作为ai训练模型。
 第二步，我们将三维空间切片成为一系列二维剖面。把这些二维剖面输入经过训练的模型会输出新艺术风格影响下的新剖面。不同的建筑部分对应不同风格的作品进行训练。
-下一步，这些风格化二维图像被从新排练形成三维空间切片。进一步通过图像像素提取体素点。这些包含不同信息的点云被筛选分组，以对应不同的材料和拟合方式。
-最后，被处理之后的有效的体素点拟合形成空间实体，代替那些被烧毁的建筑部分。
+下一步，这些风格化二维图像被重新组合形成三维空间切片。进一步通过图像像素提取体素点。这些包含不同信息的点云被筛选分组，以对应不同的材料和拟合方式。
+最后，被处理之后的有效的体素点拟合形成空间实体，代替那些被烧毁的部分。
 这个过程中我们设想了一种利用现在日益成熟的图像ai技术来构建特殊的建筑空间的方法。通过阅读文献在现有的技术上进一步的探索是我在这个项目最大的收获。
 For this project I wanted to use AI to freeze the artistic style of painting and sculpture in the architectural space. The Glasgow School of Art (GSA) was built during the Art Nouveau period and designed by Mackintosh. However, it was severely damaged in two fires. How to rebuild it became a controversial issue at the time.
+We use this design problem as a basis for experiments in space generation through machine learning. We kept the existing building structure of the gsa after the fire as a framework and added ai-generated spaces trained in the Art Nouveau style to reconstruct the gsa.
+Firstly, we did some research on some papers and chose CNN in machine learning as the ai training model.
+next step, we sliced the space into a series of 2D sections. Feeding these 2D sections into the trained model will output new stylised sections. Different building sections correspond to different styles for training.
+These stylised 2D images are recombined to form 3D spatial slices. Voxel points are extracted through the image pixels. These point clouds containing different information are filtered and grouped to correspond to different materials and fitting methods.
+Finally, these valid voxel point fits after being processed form the space that replaces those parts that are fired.
+In this project we experimented with a method of using the increasingly mature ai to construct special architectural spaces. Reading papers and exploring further on the basis of existing techniques was my biggest reward from this project.
 
+本科期间我一直在研究通过各种方法论构建形式以及建筑语言，而我认为我缺少的是形式背后的哲学思考。所以我选择了在爱丁堡完成我的硕士学位。
+During my undergraduate studies I have been researching the generation of form and the language of architecture through various methodologies, and what I think I was missing most was the philosophical thinking behind the form. So I chose to complete my Master degree in Edinburgh.
 
-这些是我本科期间的项目，我一直在研究通过各种方法论构建形式以及建筑语言，而我认为我缺少的是形式背后的哲学思考。然后我就开始了硕士的项目。
 ## 5 Proximity Theater
 从爱丁堡八月的艺术节得到灵感。
 这项目主要分为设计研究部分和 一城市主义和自然哲学为指导的论文部分
@@ -105,7 +112,8 @@ On the other hand, 面对新的设计工作方法或者是有挑战的问题，�
 Firstly, I got my master's degree with distinction. During my studies I accumulated a variety of different design methods and philosophical theories of architecture. I have been working on rhino, grasshopper and parametric design since 2015 and I'm always learning new method and software (for example I am currently learning houdini as an aid to architectural design).
 On the other hand, when faced with a new way of working or a challenging problem, I can adapt calmly and quickly and then get to work to solve it.
 ## 可以用哪些软件
-我最擅长的是 Rhinoceros, Grasshopper, cad。渲染类软件我擅长V-Ray，enscape 我的作品中几乎所有的渲染都是在vray中完成的。adobe系列主要擅长ID PS AI，我还会一些Pr的基础技能。因为一直在研究参数化设计和机器学习，我能用python调节参数，或者编写一些小脚本。
+我最擅长的是 Rhinoceros, Grasshopper, cad。渲染类软件我擅长V-Ray，enscape 我的作品中几乎所有的渲染都是在vray中完成的。adobe系列主要擅长ID PS AI，我还会一些Pr的基础技能。因为一直在研究参数化设计和机器学习，我能用python调参数，或者编写一些小脚本。
+I'm best at Rhino, Grasshopper, cad. rendering software I'm good at V-Ray, enscape and almost all of my work is rendered in vray. adobe suite is mainly ID PS AI and I have some basic skills in Pr. As I have been working on parametric design and machine learning, I can write small scripts in python.
 
 ## 为什么选择foster，喜欢foster的哪一点
 创造性和高质量工作方式和环境对于我来说非常重要。
@@ -136,7 +144,7 @@ I am also good at working creatively. When faced with a new approach to design w
 I am a friendly person and I treat my colleagues and clients as if they were my friends. And I am also good at organising or working together in a team, and I often work as a team leader on school design projects. And I am also a person who doesn't want to give up.
 
 ## 薪资
-基本年薪180k，月薪11-15k
+基本年薪160k，月薪11-15k
 
 ## 最近项目
 Euro America Financial City (EFC)
