@@ -1,4 +1,23 @@
-[TOC]
+- [自我介绍 Tell me a little about yourself 一点点缺点](#自我介绍-tell-me-a-little-about-yourself-一点点缺点)
+- [介绍](#介绍)
+  - [1 山地住宅单元](#1-山地住宅单元)
+  - [2 Forming Accessiblity 构建可达性](#2-forming-accessiblity-构建可达性)
+  - [3 Underwater Temple](#3-underwater-temple)
+  - [4 Freezing Art History in Space](#4-freezing-art-history-in-space)
+  - [转折](#转折)
+  - [5 Proximity Theater](#5-proximity-theater)
+  - [appendix](#appendix)
+- [公司为什么选择我 我的强项 我的优势](#公司为什么选择我-我的强项-我的优势)
+- [可以用哪些软件](#可以用哪些软件)
+- [为什么选择foster，喜欢foster的哪一点](#为什么选择foster喜欢foster的哪一点)
+- [未来发展想法](#未来发展想法)
+- [你有什么品质 what qualities do you have](#你有什么品质-what-qualities-do-you-have)
+- [薪资](#薪资)
+- [最近项目](#最近项目)
+- [最喜欢的项目](#最喜欢的项目)
+- [投过哪些公司](#投过哪些公司)
+- [现在在干啥](#现在在干啥)
+
 ## 自我介绍 Tell me a little about yourself 一点点缺点
 首先，我叫韩志鹏，家乡是杭州。
 我喜欢设计和构建，所以选择了建筑师作为我的目标。
