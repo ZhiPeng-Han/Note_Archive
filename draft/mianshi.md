@@ -79,8 +79,9 @@ GANGES Water purification tower IN INDIA是一个结合净水功能和恒河传�
 恒河是印度教最神圣的河流，它也是数以百万计的底层印度人的生命线。
 然而，恒河遭受着极端的污染，大量城市的污水、工业垃圾、污染物被排放到河流中。这是由生活在恒河附近的4亿人造成的。
 ***
+1
 The Underwater Temple IN INDIA is a building that combines the water purification function with the traditional festival of Kumbh Mela on the Ganges.
-The Ganges is India's most sacred river, and it is also the lifeline for millions of underclass Indians.
+The Ganges is India's most sacred river, and it is also the lifeline for millions of Indians.
 However, the Ganges suffers from extreme pollution, with large amounts of sewage, industrial waste and pollutants from the city being released into the river. This is caused by the 400 million people who live near the Ganges.
 ***
 我们在前期调研发现田螺和牡蛎具有高效的净水能力，并通过实验证明了它们净化水的可能。
@@ -88,8 +89,10 @@ However, the Ganges suffers from extreme pollution, with large amounts of sewage
 通过多个单元的组合，水下垂直寺庙被构建起来。人们可以用潜水装备潜水进入，也有不同高度的平台提供祭拜的空间和舞台。这些空间也同时是田螺的栖息地，当地渔民也会养殖田螺获取收益。
 当它也在不断的改善恒河的水质时候，宏伟的水下寺庙就成为圣地恒河中的圣地。
 ***
+2
 In our previous research, we found that snails and oysters are highly effective in purifying water, and we have proved through experiments that they are highly effective in it.
 We started the design from the smallest unit, using minimal surface to build the space of attachment of the snails. We then combine and extend the minimal surfaces to create a series of spaces of different scales and functions.
+3
 Further, through the combination of several units, underwater temples are constructed. It can be accessed by diving equipment, and there are also platforms of different heights that provide spaces and stages for worship. 
 These spaces also provide a habitat for snails, which are farmed for profit by local fishermen.
 When it is constantly improving the water quality of the Ganges, the magnificent underwater temple becomes a sacred site in it.
@@ -100,6 +103,7 @@ When it is constantly improving the water quality of the Ganges, the magnificent
 我们把这个设计问题作为基础，通过机器学习辅助设计，进行空间生成实验。保留gsa灾后现存的结构作为框架，加入新艺术主义风格训练下的ai生成的空间，重建gsa的教学楼。
 首先，我们做了一些文献综述，选择了机器学习中的CNN（卷积神经网络）作为ai训练模型。
 ***
+1
 For this project I wanted to use AI to freeze the artistic style of painting and sculpture in the architectural space. The Glasgow School of Art (GSA) was built during the Art Nouveau period and designed by Mackintosh. However, it was severely damaged in two fires. How to rebuild it became a controversial issue at the time.
 We use this design problem as a basis for experiments in space generation through machine learning. We kept the existing building structure of the gsa after the fire as a framework and added ai-generated spaces trained in many styles to reconstruct the gsa.
 Firstly, we did some research on papers and chose CNN in machine learning as the ai training model.
@@ -109,9 +113,12 @@ Firstly, we did some research on papers and chose CNN in machine learning as the
 最后，被处理之后的有效的体素点拟合形成空间实体，代替那些被烧毁的部分。
 这个过程中我们设想了一种利用现在日益成熟的图像ai技术来构建特殊的建筑空间的方法。通过阅读文献在现有的技术上进一步的探索是我在这个项目最大的收获。
 ***
+2
 next step, we sliced the space into a series of 2D sections. Feeding these 2D sections into the trained model will output new stylised sections. Different building sections correspond to different styles for training.
+3
 These stylised 2D images are recombined to form 3D spatial slices. Voxel points are extracted through the image pixels. These point clouds containing different information are filtered and grouped to correspond to different materials and fitting methods.
 Finally, these valid voxel point fits after being processed form the space that replaces those parts that are fired.
+4
 In this project we experimented with a method of using the increasingly mature ai to construct special architectural spaces. Reading papers and exploring further on the basis of existing techniques was my biggest reward from this project.
 ***
 
@@ -128,6 +135,7 @@ This is a research project focusing on the social philosophy of the city and urb
 我们从爱丁堡八月的艺术节得到灵感。通过在爱丁堡老城中一系列proximity theater作为干预点作为主体化的开始，将royal mile两侧的一系列closes沉浸在表演的氛围（atmosphere）中。由此来形成一种新的城市主义，这是对全球化资本主义引导的城市化的一种抗争。
 项目的重点是以closes独特的狭小空间作为载体, 我们将这些空间重构为proximity Theater的一部分。 从观众和演员的body尺度的舞台表演发展到老城中76条closes的城市尺度上新的城市节日。Performative Urbanism在爱丁堡的四个尺度上的涌现，使得爱丁堡沉浸在节日的氛围中。新的生态学价值体系在这个过程中产生。我们把这种在爱丁堡中自下而上的生态学实践称为，Synecdoche, Edinburgh，PARA-situation [Edinburgh]。
 ***
+1
 We took inspiration from Edinburgh International Festival. By using a series of proximity theatres in Edinburgh's Old Town as a point of intervention as the beginning of subjectification, a series of closes spaces on either side of the Royal Mile are immersed in the atmosphere of performance. This has led to the creation of a new urbanism-Proximity Paradiam, which is a resistance to the urbanisation guided by globalised capitalism.
 The focus of the project is to build proximity theatre in the uniquely small space of the closes and to use the street space as part of the theatre. The development from body-scale theatrical performances for audiences and performers to new urban festivals on an urban scale of 76 closes in the Old Town. the emergence of Performative Urbanism on four scales in Edinburgh immersed Edinburgh in a festival atmosphere. A new ecological value system emerges from this process. We call this ecological practice in Edinburgh from the inside out, Synecdoche, Edinburgh, PARA-situation [Edinburgh].
 ***
@@ -136,13 +144,17 @@ The focus of the project is to build proximity theatre in the uniquely small spa
 在具体的空间中我们利用在closes空间中观察人的行为作为故事的线索，利用叙事性建筑和沉浸式剧院的构建方式，像是一个导演一样构建了具体的剧院空间。并且我们使用来copper来隐喻不同主体间相互渗透的部分。
 生活的爱丁堡老城中的人们为了一个共同的意识、目标、归属感在一起策划、准备、制作、庆祝。我们用光线穿过多层的城市模型来表达这个在城市尺度的、上自下而上的生态学社会体系。
 ***
+2
 Specifically, we have developed a series of methodologies through our practice. Based on the theme of performance, we use light and shadow and film to form a materialisation of the boundary and iterate it, projecting it again in light and shadow, so that the model forms architectural language. 
+3
 In the specific space we use the history and life of Edinburgh's Old Town as a story line, using narrative architecture and immersive theatre construction as a director to build the specific theatre space. And we use the use of the copper as a metaphor for the interpenetrating parts of the different subjects.
+4
 People living in Edinburgh's Old Town plan, prepare, make and celebrate together for a common sense, purpose and sense of belonging. We use light through the multi-layered city model to express this ecological social system at an urban scale, from the inside out.
 ***
 而在论文部分具体阐述了这些概念逻辑产生过程 和 方法论的实验迭代过程。
 exhibition部分也同样表达了synecdoche Edinburgh的概念，将整个展厅理解为爱丁堡，而展架是舞台，作品是演员。我们通过光与影形成独特的效果。这个项目被eca选中，我借此拿到了distinction。
 ***
+5
 The thesis section specifies the process by which these conceptual logics emerged and the experimental iterations of the methodology. The exhibition also expresses the same concept of synecdoche Edinburgh, with the Studio as Edinburgh, and the exhibition stands as the stage and the models as the actors. We create a unique effect through light and shadow. The project was selected by eca and I got a distinction for this project.
 
 ### appendix
