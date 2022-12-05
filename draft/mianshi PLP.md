@@ -8,10 +8,10 @@
   - [5 Proximity Theater](#5-proximity-theater)
   - [appendix](#appendix)
 - [公司为什么选择我 我的强项 我的优势](#公司为什么选择我-我的强项-我的优势)
+- [你有什么品质 what qualities do you have](#你有什么品质-what-qualities-do-you-have)
 - [可以用哪些软件](#可以用哪些软件)
 - [为什么选择foster，喜欢foster的哪一点](#为什么选择foster喜欢foster的哪一点)
 - [未来发展想法](#未来发展想法)
-- [你有什么品质 what qualities do you have](#你有什么品质-what-qualities-do-you-have)
 - [薪资](#薪资)
 - [最近项目](#最近项目)
 - [最喜欢的项目](#最喜欢的项目)
@@ -141,27 +141,26 @@ This is a research project focusing on the social philosophy of the city and urb
 我们从爱丁堡八月的艺术节得到灵感。通过在爱丁堡老城中一系列proximity theater作为干预点作为主体化的开始，将royal mile两侧的一系列closes沉浸在表演的氛围（atmosphere）中。由此来形成一种新的城市主义，这是对全球化资本主义引导的城市化的一种抗争。
 项目的重点是以closes独特的狭小空间作为载体, 我们将这些空间重构为proximity Theater的一部分。 从观众和演员的body尺度的舞台表演发展到老城中76条closes的城市尺度上新的城市节日。Performative Urbanism在爱丁堡的四个尺度上的涌现，使得爱丁堡沉浸在节日的氛围中。新的生态学价值体系在这个过程中产生。我们把这种在爱丁堡中自下而上的生态学实践称为，Synecdoche, Edinburgh，PARA-situation [Edinburgh]。
 ***
-1
+1-2
 We took inspiration from Edinburgh International Festival. By using a series of proximity theatres in Edinburgh's Old Town as a point of intervention as the beginning of subjectification, a series of closes spaces on either side of the Royal Mile are immersed in the atmosphere of performance. This has led to the creation of a new urbanism-Proximity Paradiam, which is a resistance to the urbanisation guided by globalised capitalism.
-The focus of the project is to build proximity theatre in the uniquely small space of the closes and to use the street space as part of the theatre. The development from body-scale theatrical performances for audiences and performers to new urban festivals on an urban scale of 76 closes in the Old Town. the emergence of Performative Urbanism on four scales in Edinburgh immersed Edinburgh in a festival atmosphere. A new ecological value system emerges from this process. We call this ecological practice in Edinburgh from the inside out, Synecdoche, Edinburgh, PARA-situation [Edinburgh].
+The focus of the project is to build proximity theatre in the uniquely small space of the closes and to use the street space as part of the theatre. The development from body-scale theatrical performances for audiences and performers to new urban festivals on urban scale of 76 closes in the Old Town. The emergence of Performative Urbanism on four scales immersed Edinburgh in a festival atmosphere. A new ecological value system emerges from this process. We call this ecological practice in Edinburgh from the inside out, Synecdoche, Edinburgh, PARA-situation [Edinburgh].
 ***
-
 具体的来说，我们通过实践形成一系列方法论。基于表演的主题，我们利用光影和film形成boundary的实体化，并且将其迭代，再次投射在光影之中，使得模型再次迭代形成建筑语言。
 在具体的空间中我们利用在closes空间中观察人的行为作为故事的线索，利用叙事性建筑和沉浸式剧院的构建方式，像是一个导演一样构建了具体的剧院空间。并且我们使用来copper来隐喻不同主体间相互渗透的部分。
 生活的爱丁堡老城中的人们为了一个共同的意识、目标、归属感在一起策划、准备、制作、庆祝。我们用光线穿过多层的城市模型来表达这个在城市尺度的、上自下而上的生态学社会体系。
 ***
-2
-Specifically, we have developed a series of methodologies through our practice. Based on the theme of performance, we use light and shadow and film to form a materialisation of the boundary and iterate it, projecting it again in light and shadow, so that the model forms architectural language. 
-3
-In the specific space we use the history and life of Edinburgh's Old Town as a story line, using narrative architecture and immersive theatre construction as a director to build the specific theatre space. And we use the use of the copper as a metaphor for the interpenetrating parts of the different subjects.
-4
+3-4
+Specifically, we have developed a series of methodologies through our practice. Based on the theme of performance, we use light and shadow and film to form a materialisation of the boundary and iterate it, projecting it again in light and shadow, so that the model forms architectural language again. 
+5-6
+In the specific space we use the history and life of Edinburgh's Old Town as a story line, using narrative architecture and immersive theatre construction as a director to build the specific theatre space. And we use the copper as a metaphor for the interpenetrating parts of the different subjects.
+7-8
 People living in Edinburgh's Old Town plan, prepare, make and celebrate together for a common sense, purpose and sense of belonging. We use light through the multi-layered city model to express this ecological social system at an urban scale, from the inside out.
 ***
 而在论文部分具体阐述了这些概念逻辑产生过程 和 方法论的实验迭代过程。
 exhibition部分也同样表达了synecdoche Edinburgh的概念，将整个展厅理解为爱丁堡，而展架是舞台，作品是演员。我们通过光与影形成独特的效果。这个项目被eca选中，我借此拿到了distinction。
 ***
-5
-The thesis section specifies the process by which these conceptual logics emerged and the experimental iterations of the methodology. The exhibition also expresses the same concept of synecdoche Edinburgh, with the Studio as Edinburgh, and the exhibition stands as the stage and the models as the actors. We create a unique effect through light and shadow. The project was selected by eca and I got a distinction for this project.
+9-10
+The thesis section specifies the process by which these conceptual logics emerged and the experimental iterations of the methodology. The exhibition also expresses the synecdoche Edinburgh, with the Studio as Edinburgh, and the exhibition space as the stage and the models as the actors. We create a unique effect through light and shadow. The project was selected by eca and I got distinction for this project.
 
 ### appendix
 这是我在gad的实习项目。我主要参与了衢州礼贤未来社区的街区公共空间设计和加油站改建设计。我把加油站的屋顶一直错落融入到双水公园中，让加油站成为公园的一部分。并且遵循模块化的基本单元，可以大幅度缩短改建和维护的成本和时间，增加可持续性减少加油站对于周边居住区生态绿色环境的影响。
@@ -169,17 +168,33 @@ The thesis section specifies the process by which these conceptual logics emerge
 This is my internship project at gad. I was mainly involved in the design of the public space and the renovation of the petrol station for the future community of Lixian in Quzhou. I integrated the roof of the gas station into the Shuangshui Park by reducing its height layer by layer, making the gas station a part of the park. 
 It also follows the modular unit, which significantly reduces the cost and time of renovation and maintenance, and increases sustainability and reduces the ecological and green impact of the station on the surrounding residential area.
 
+
+
 ## 公司为什么选择我 我的强项 我的优势
 Firstly，我以distinction的成绩拿到了硕士学位。我在学习期间积累了各种不同的设计方法和建筑哲学理论。我从2015年就开始研究rhino，gh为工作流的参数化设计，并且一直在学习新的技术和软件（比如我现在正在自学houdini对建筑设计的辅助）。
 On the other hand, 面对新的设计工作方法或者是有挑战的问题，我能冷静并且快速的适应，然后投入到工作中去解决问题。
 ***
 Firstly, I got my master's degree with distinction. During my studies I accumulated a variety of different design methods and philosophical theories of architecture. I have been working on rhino, grasshopper and parametric design since 2015 and I'm always learning new method and software (for example I am currently learning houdini as an aid to architectural design).
-On the other hand, when faced with a new way of working or a challenging problem, I can adapt calmly and quickly and then get to work to solve it.
+On the other hand, when faced with a new way of working or a challenging problem, I can adapt quickly and then get to work to solve it.
+
+## 你有什么品质 what qualities do you have
+我对于工作非常务实，以用最合适的方式解决问题为目标。
+同时我擅长富有创造性的工作，面对新的设计工作方法或者是有挑战的问题，我能冷静并且快速的适应，然后投入到工作中去解决问题。
+我为人友善，对于同事、客户我都会和对待朋友一样。并且我也善于在团队中组织或者配合工作，我在学校的合作设计项目中经常担任leader。
+最后，我是一个不愿放弃的人。
+***
+I am very pragmatic and aim to solve problems in the most appropriate way.
+I am also good at working creatively. When faced with a new approach to design work or a challenging problem, I can adapt calmly and quickly and then get to work to solve the problem.
+I am a friendly person and I treat my colleagues and clients like friends. And I am also good at organising or working together in a team, and I often work as a team leader in college. And I am also a person who doesn't want to give up.
+
+
+
 
 ## 可以用哪些软件
 我最擅长的是 Rhinoceros, Grasshopper, cad。渲染类软件我擅长V-Ray，enscape 我的作品中几乎所有的渲染都是在vray中完成的。adobe系列主要擅长ID PS AI，我还会一些Pr的基础技能。因为一直在研究参数化设计和机器学习，我能用python调参数，或者编写一些小脚本。
+我正在学习houdini和revit，但是还没有项目经验。
 ***
-I'm best at Rhino, Grasshopper, cad. rendering software I'm good at V-Ray, enscape and almost all of my work is rendered in vray. adobe suite is mainly ID PS AI and I have some basic skills in Pr. As I have been working on parametric design and machine learning, I can write small scripts in python.
+I'm best at Rhino, Grasshopper, cad. rendering software I'm good at V-Ray, enscape and almost all of my work is rendered in vray. adobe suite is mainly ID PS AI and I have some basic skills in Pr. As I have been working on parametric design and machine learning, I can write small scripts in python. I am learning houdini and revit, but have no project experience yet.
 
 ## 为什么选择foster，喜欢foster的哪一点
 创造性和高质量工作方式和环境对于我来说非常重要。
@@ -194,22 +209,14 @@ For example, 2017 - London, UK Bloomberg
 Being involved in these landmark, high quality architectural designs is the work I aspire to do as a graduated designer.I want to start a new career at foster+partners and Hangzhou is my hometown. And this is my dream job.
 
 ## 未来发展想法 
-我不知我5年以后怎么想，但是现在我希望能在这个世界顶级的设计团队工作5年以上。最重要的是能够在foster位于全球的各种项目中积累经验，成长为成熟建筑师。
+现在我希望能在这个世界顶级的设计团队工作2年以上。最重要的是能够在PLP位于全球的各种项目中积累经验，成长为成熟建筑师。并且能够在PLP学到更多新技术。
 ***
 I don't know how I will answer in 5 years time, but for now I hope to work for more than 5 years in this world class design team. The most important thing is to be able to learn and gain experience in a variety of projects at Foster.  And Growing into a mature architect.
-我可以随时开始线上的办公。我在12月1号的毕业典礼结束之后都可以回国工作。
-***
-I can start working online at any time. I can go back to work in Hangzhou after the graduation ceremony on December 1.
 
-## 你有什么品质 what qualities do you have
-我对于工作非常务实，以用最合适的方式解决问题为目标。
-同时我擅长富有创造性的工作，面对新的设计工作方法或者是有挑战的问题，我能冷静并且快速的适应，然后投入到工作中去解决问题。
-我为人友善，对于同事、客户我都会和对待朋友一样。并且我也善于在团队中组织或者配合工作，我在学校的合作设计项目中经常担任leader。
-最后，我是一个不愿放弃的人。
+我随时可以开始工作
 ***
-I am very pragmatic and aim to solve problems in the most appropriate way.
-I am also good at working creatively. When faced with a new approach to design work or a challenging problem, I can adapt calmly and quickly and then get to work to solve the problem.
-I am a friendly person and I treat my colleagues and clients as if they were my friends. And I am also good at organising or working together in a team, and I often work as a team leader on school design projects. And I am also a person who doesn't want to give up.
+I can start work at any time.
+
 
 ## 薪资
 基本年薪160k，月薪11-15k
