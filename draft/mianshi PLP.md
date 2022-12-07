@@ -40,6 +40,10 @@ I have often been a team leader in design projects at school. I am ready to take
 ***
 My Disadvantage is that when I face a problem that I feel I can't solve in a short time, I may keep focus on the problem. but This may then affect the progress of other work.
 
+我不仅认真培养自己的建筑设计能力，研究通过各种方法论构建形式以及建筑语言。一直在探索数字化建筑设计和建造的可能。
+熟练掌握了Grasshopper和基本的Python辅助设计能力。
+
+
 
 
 ## 介绍
@@ -175,7 +179,7 @@ It also follows the modular unit, which significantly reduces the cost and time 
 
 
 ## 公司为什么选择我 我的强项 我的优势
-Firstly，我以distinction的成绩拿到了硕士学位。我在学习期间积累了各种不同的设计方法和建筑哲学理论。我从2015年就开始研究rhino，gh为工作流的参数化设计，并且一直在学习新的技术和软件（比如我现在正在自学houdini对建筑设计的辅助）。
+Firstly，我以distinction的成绩拿到了硕士学位。我在学习期间积累了各种不同的设计方法和建筑哲学理论。我从2015年就开始学习以rhino，gh为工作流的参数化设计，并且一直在学习新的技术和软件（比如我现在正在自学houdini对建筑设计的辅助）。
 On the other hand, 面对新的设计工作方法或者是有挑战的问题，我能冷静并且快速的适应，然后投入到工作中去解决问题。
 ***
 Firstly, I got my master's degree with distinction. During my studies I accumulated a variety of different design methods and philosophical theories of architecture. I have been working on rhino, grasshopper and parametric design since 2015 and I'm always learning new method and software (for example I am currently learning houdini as an aid to architectural design).
