@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "741665b69eb185c4",
+        "id": "df52a61fbc89f836",
         "type": "tabs",
         "children": [
           {
-            "id": "3353b86c649b5550",
+            "id": "66bdef4a9a7b3684",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "白板学习.canvas",
-                "viewState": {
-                  "x": -157.5,
-                  "y": 249.5,
-                  "zoom": -0.5439988469747836,
-                  "snapToGrid": false
-                }
+                "file": "Index/Book List.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "白板学习.canvas",
+                "file": "Index/Book List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "白板学习.canvas",
+                "file": "Index/Book List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "白板学习.canvas"
+                "file": "Index/Book List.md"
               }
             }
           }
@@ -150,17 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3353b86c649b5550",
+  "active": "66bdef4a9a7b3684",
   "lastOpenFiles": [
-    "Archive/Think.md",
+    "draft/mianshi.md",
     "Archive/zuoren.md",
-    "Archive/口语范式/口语范式 91c74d2a71b142c4acf019bd1fd2ee03.md",
     "白板学习.canvas",
+    "Archive/Think.md",
+    "Archive/口语范式/口语范式 91c74d2a71b142c4acf019bd1fd2ee03.md",
     "Study/Eassy文献.md",
     "Study/教堂设计项目.md",
     "test.md",
     "README.md",
-    "找工作.md",
-    "brief笔记.md"
+    "找工作.md"
   ]
 }
