@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5e21324433642e86","x":-192,"y":-154,"width":250,"height":60,"type":"text","text":"白板好不好用"},
+		{"id":"28c7f150e2c43bb8","x":-228,"y":66,"width":250,"height":50,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1ac0d7b304785d99","fromNode":"5e21324433642e86","fromSide":"bottom","toNode":"28c7f150e2c43bb8","toSide":"top"}
+	]
+}
