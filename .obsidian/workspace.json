@@ -11,12 +11,15 @@
             "id": "3353b86c649b5550",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Archive/Think.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "白板学习.canvas",
+                "viewState": {
+                  "x": -157.5,
+                  "y": 249.5,
+                  "zoom": -0.5439988469747836,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Think.md",
+                "file": "白板学习.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Think.md",
+                "file": "白板学习.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/Think.md"
+                "file": "白板学习.canvas"
               }
             }
           }
@@ -149,8 +152,8 @@
   },
   "active": "3353b86c649b5550",
   "lastOpenFiles": [
-    "Archive/zuoren.md",
     "Archive/Think.md",
+    "Archive/zuoren.md",
     "Archive/口语范式/口语范式 91c74d2a71b142c4acf019bd1fd2ee03.md",
     "白板学习.canvas",
     "Study/Eassy文献.md",
