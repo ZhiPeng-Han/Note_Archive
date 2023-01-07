@@ -11,8 +11,13 @@
             "id": "d32e6cad0f7b17bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Study/Eassy文献.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Study/Eassy文献.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Study/Eassy文献.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Study/Eassy文献.md"
+              }
             }
           }
         ]
@@ -140,6 +149,7 @@
   },
   "active": "d32e6cad0f7b17bd",
   "lastOpenFiles": [
+    "Study/教堂设计项目.md",
     "test.md",
     "README.md",
     "白板学习.canvas",
@@ -148,7 +158,6 @@
     "2023-01-07.md",
     "Study/Eassy文献.md",
     "draft/mianshi.md",
-    "Archive/Think.md",
-    "Archive/zuoren.md"
+    "Archive/Think.md"
   ]
 }
