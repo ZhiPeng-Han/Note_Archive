@@ -4,38 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e52c96c9dada1556",
+        "id": "741665b69eb185c4",
         "type": "tabs",
         "children": [
           {
-            "id": "d32e6cad0f7b17bd",
+            "id": "3353b86c649b5550",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Study/Eassy文献.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0bd187ad8987fbe6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d08674ad2ca41f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Eassy文献.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "白板学习.canvas",
+                "viewState": {
+                  "x": -275.714575570093,
+                  "y": 203.74971609724793,
+                  "zoom": -0.8773321803081169,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -105,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Eassy文献.md",
+                "file": "白板学习.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Eassy文献.md",
+                "file": "白板学习.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Eassy文献.md"
+                "file": "白板学习.canvas"
               }
             }
           }
@@ -166,16 +150,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d08674ad2ca41f1",
+  "active": "3353b86c649b5550",
   "lastOpenFiles": [
+    "Study/Eassy文献.md",
+    "白板学习.canvas",
     "Study/教堂设计项目.md",
     "test.md",
     "README.md",
-    "白板学习.canvas",
     "找工作.md",
     "brief笔记.md",
     "2023-01-07.md",
-    "Study/Eassy文献.md",
     "draft/mianshi.md",
     "Archive/Think.md"
   ]

@@ -2,5 +2,6 @@
   "accentColor": "",
   "cssTheme": "Things",
   "theme": "moonstone",
-  "translucency": true
+  "translucency": false,
+  "nativeMenus": false
 }
