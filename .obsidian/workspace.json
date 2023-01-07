@@ -11,15 +11,12 @@
             "id": "3353b86c649b5550",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "白板学习.canvas",
-                "viewState": {
-                  "x": -275.714575570093,
-                  "y": 203.74971609724793,
-                  "zoom": -0.8773321803081169,
-                  "snapToGrid": false
-                }
+                "file": "Archive/Think.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "白板学习.canvas",
+                "file": "Archive/Think.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "白板学习.canvas",
+                "file": "Archive/Think.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "白板学习.canvas"
+                "file": "Archive/Think.md"
               }
             }
           }
@@ -152,15 +149,15 @@
   },
   "active": "3353b86c649b5550",
   "lastOpenFiles": [
-    "Study/Eassy文献.md",
+    "Archive/zuoren.md",
+    "Archive/Think.md",
+    "Archive/口语范式/口语范式 91c74d2a71b142c4acf019bd1fd2ee03.md",
     "白板学习.canvas",
+    "Study/Eassy文献.md",
     "Study/教堂设计项目.md",
     "test.md",
     "README.md",
     "找工作.md",
-    "brief笔记.md",
-    "2023-01-07.md",
-    "draft/mianshi.md",
-    "Archive/Think.md"
+    "brief笔记.md"
   ]
 }
