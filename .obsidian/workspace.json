@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/口语范式/口语范式.md",
+                "file": "ARCHI-设计/作品简单分析.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed774711f0e1aa77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index/Book List.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/口语范式/口语范式.md",
+                "file": "Index/Book List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/口语范式/口语范式.md",
+                "file": "Index/Book List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/口语范式/口语范式.md"
+                "file": "Index/Book List.md"
               }
             }
           }
@@ -147,17 +161,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5b1ec1623dc4bb3",
+  "active": "ed774711f0e1aa77",
   "lastOpenFiles": [
-    "ARCHI-设计/建筑类型学.md",
-    "ARCHI-设计/作品简单分析.md",
-    "ARCHI-设计/Frame.md",
+    "test.md",
     "Index/Book List.md",
-    "draft/mianshi.md",
-    "Archive/zuoren.md",
     "白板学习.canvas",
-    "Archive/Think.md",
+    "未命名.canvas",
+    "ARCHI-设计/VRay.md",
+    "ARCHI-设计/作品简单分析.md",
     "Archive/口语范式/口语范式.md",
-    "Study/Eassy文献.md"
+    "ARCHI-设计/建筑类型学.md",
+    "ARCHI-设计/Frame.md",
+    "draft/mianshi.md"
   ]
 }
