@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/Book List.md",
+                "file": "Index/The Master Algorithm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0804dc3f0716b4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thinking-思想/早期想法.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index/Book List.md",
+                "file": "Thinking-思想/早期想法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index/Book List.md",
+                "file": "Thinking-思想/早期想法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index/Book List.md"
+                "file": "Thinking-思想/早期想法.md"
               }
             }
           }
@@ -166,11 +179,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "32d75f24e2b8bb96",
+  "active": "0804dc3f0716b4dd",
   "lastOpenFiles": [
     "Index/The Master Algorithm.md",
-    "Index/Book List.md",
     "Index/认识建筑 - 丰子恺.md",
+    "Index/Book List.md",
     "Index/美的历程.md",
     "test.md",
     "白板学习.canvas",
