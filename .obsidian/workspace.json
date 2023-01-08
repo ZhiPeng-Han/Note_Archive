@@ -11,8 +11,13 @@
             "id": "ee190a7beb247a59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index/The Master Algorithm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index/The Master Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index/The Master Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index/The Master Algorithm.md"
+              }
             }
           }
         ]
@@ -143,16 +152,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5b1ec1623dc4bb3",
+  "active": "ee190a7beb247a59",
   "lastOpenFiles": [
-    "Study/未命名 1.canvas",
+    "Index/Book List.md",
+    "Index/The Master Algorithm.md",
+    "Index/思考原则.md",
+    "Study/学习体系.canvas",
     "Study/学习体系.md",
     "未命名.canvas",
     "白板学习.canvas",
     "Study/教堂设计项目.md",
-    "Index/思考原则.md",
-    "Index/Book List.md",
-    "Index/The Master Algorithm.md",
     "Thinking-思想/早期想法.md",
     "Index/认识建筑 - 丰子恺.md"
   ]

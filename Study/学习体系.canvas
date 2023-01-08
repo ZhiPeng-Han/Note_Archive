@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"2056ec8ff456cbf8","x":-358,"y":-152,"width":250,"height":60,"type":"text","text":"学习能力"},
+		{"id":"71757cb18f03dcc8","x":-358,"y":-68,"width":656,"height":1081,"type":"file","file":"Study/学习体系_20230108_014821.png"}
+	],
+	"edges":[]
+}
