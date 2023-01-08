@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "988c016c34e7a3c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARCHI-设计/作品简单分析.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed774711f0e1aa77",
+            "id": "21e399c6b7b0295f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,6 +17,19 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "e961ffa4e05bd441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index/Book List.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -91,6 +91,24 @@
     "type": "split",
     "children": [
       {
+        "id": "70637bc84850bcbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d75f24e2b8bb96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index/Book List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "1fa275339351deb6",
         "type": "tabs",
         "children": [
@@ -107,18 +125,6 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "32d75f24e2b8bb96",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Index/Book List.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -148,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,17 +166,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed774711f0e1aa77",
+  "active": "32d75f24e2b8bb96",
   "lastOpenFiles": [
-    "test.md",
+    "Index/The Master Algorithm.md",
     "Index/Book List.md",
+    "Index/认识建筑 - 丰子恺.md",
+    "Index/美的历程.md",
+    "test.md",
     "白板学习.canvas",
     "未命名.canvas",
     "ARCHI-设计/VRay.md",
     "ARCHI-设计/作品简单分析.md",
-    "Archive/口语范式/口语范式.md",
-    "ARCHI-设计/建筑类型学.md",
-    "ARCHI-设计/Frame.md",
-    "draft/mianshi.md"
+    "Archive/口语范式/口语范式.md"
   ]
 }
