@@ -8,46 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21e399c6b7b0295f",
+            "id": "ee190a7beb247a59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index/Book List.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e961ffa4e05bd441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index/The Master Algorithm.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0804dc3f0716b4dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thinking-思想/早期想法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thinking-思想/早期想法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thinking-思想/早期想法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Thinking-思想/早期想法.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,17 +143,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0804dc3f0716b4dd",
+  "active": "a5b1ec1623dc4bb3",
   "lastOpenFiles": [
-    "Index/The Master Algorithm.md",
-    "Index/认识建筑 - 丰子恺.md",
-    "Index/Book List.md",
-    "Index/美的历程.md",
-    "test.md",
-    "白板学习.canvas",
+    "Study/未命名 1.canvas",
+    "Study/学习体系.md",
     "未命名.canvas",
-    "ARCHI-设计/VRay.md",
-    "ARCHI-设计/作品简单分析.md",
-    "Archive/口语范式/口语范式.md"
+    "白板学习.canvas",
+    "Study/教堂设计项目.md",
+    "Index/思考原则.md",
+    "Index/Book List.md",
+    "Index/The Master Algorithm.md",
+    "Thinking-思想/早期想法.md",
+    "Index/认识建筑 - 丰子恺.md"
   ]
 }
