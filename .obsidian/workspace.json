@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d26f87117adf397f",
+        "id": "bac8f4553d9a78a3",
         "type": "tabs",
         "children": [
           {
-            "id": "ee190a7beb247a59",
+            "id": "fad4367bcec0171c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -143,17 +143,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ee190a7beb247a59",
+  "active": "fad4367bcec0171c",
   "lastOpenFiles": [
-    "未命名 2.canvas",
-    "2023-02-12.md",
-    "未命名 1.canvas",
+    "找工作.md",
+    "test.md",
+    "README.md",
+    "brief笔记.md",
     "未命名.canvas",
-    "Study/Eassy文献.md",
-    "Study/学习体系_20230108_014821.png",
-    "Index/Book List.md",
-    "Index/The Master Algorithm.md",
-    "Index/思考原则.md",
-    "Study/学习体系.canvas"
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "白板学习.canvas",
+    "Thinking-思想/早期想法.md",
+    "2023-02-12.md"
   ]
 }
