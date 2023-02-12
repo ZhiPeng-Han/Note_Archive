@@ -11,7 +11,7 @@
             "id": "ee190a7beb247a59",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -143,17 +143,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5b1ec1623dc4bb3",
+  "active": "ee190a7beb247a59",
   "lastOpenFiles": [
+    "未命名 2.canvas",
+    "2023-02-12.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "Study/Eassy文献.md",
     "Study/学习体系_20230108_014821.png",
     "Index/Book List.md",
     "Index/The Master Algorithm.md",
     "Index/思考原则.md",
-    "Study/学习体系.canvas",
-    "Study/学习体系.md",
-    "未命名.canvas",
-    "白板学习.canvas",
-    "Study/教堂设计项目.md"
+    "Study/学习体系.canvas"
   ]
 }
