@@ -11,8 +11,13 @@
             "id": "fad4367bcec0171c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Website/thinking-on-a-lage-scale.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Website/thinking-on-a-lage-scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Website/thinking-on-a-lage-scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,14 +131,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Website/thinking-on-a-lage-scale.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 206.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,15 +155,15 @@
   },
   "active": "fad4367bcec0171c",
   "lastOpenFiles": [
+    "Website/test.md",
+    "Website/SynecdocheEdinburghCN.md",
+    "Website/SynecdocheEdinburgh.md",
+    "Website/modular-community.md",
+    "Website/CloseStudio.md",
+    "Thinking-思想/早期想法.md",
+    "未命名.md",
     "找工作.md",
     "test.md",
-    "README.md",
-    "brief笔记.md",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "未命名 2.canvas",
-    "白板学习.canvas",
-    "Thinking-思想/早期想法.md",
-    "2023-02-12.md"
+    "README.md"
   ]
 }
