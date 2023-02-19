@@ -8,7 +8,7 @@
 		{"id":"c93d464375d76e8a","x":-713,"y":72,"width":250,"height":60,"type":"text","text":"叙事建筑的方向"},
 		{"id":"67a7c1cc934e21b2","x":-255,"y":72,"width":250,"height":115,"type":"text","text":"所以目标首先是做一些吸引人的逐步推进的阶段性成果"},
 		{"id":"c26cd3159dafa27c","x":58,"y":-18,"width":250,"height":90,"type":"text","text":"初期的目标"},
-		{"id":"68903f0d93afbd2d","x":387,"y":-3,"width":250,"height":60,"type":"text","text":""}
+		{"id":"68903f0d93afbd2d","x":347,"y":-18,"width":250,"height":232,"type":"text","text":"自媒体：\n1.建立平台和账号定位\n2."}
 	],
 	"edges":[
 		{"id":"03f0187aa7124f41","fromNode":"f99247c04705ec49","fromSide":"right","toNode":"b1c5db6cb78944bd","toSide":"left"},
