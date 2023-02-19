@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fad4367bcec0171c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "白板学习.canvas",
-                "viewState": {
-                  "x": -157.5,
-                  "y": 1171.4497382198952,
-                  "zoom": -0.3093854803002207,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
             "id": "6fab9d874d73731d",
             "type": "leaf",
             "state": {
@@ -31,16 +15,15 @@
               "state": {
                 "file": "未命名.canvas",
                 "viewState": {
-                  "x": -15.5,
-                  "y": 139.5,
+                  "x": -158,
+                  "y": 254,
                   "zoom": 0,
                   "snapToGrid": false
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +157,8 @@
   },
   "active": "6fab9d874d73731d",
   "lastOpenFiles": [
+    "2023-02-12.md",
+    "未命名.canvas",
     "未命名.md",
     "白板学习.canvas",
     "Thinking-思想/人生在意的是过程.md",
@@ -182,8 +166,6 @@
     "Website/thinking-on-a-lage-scale.md",
     "Website/test.md",
     "Website/SynecdocheEdinburghCN.md",
-    "Website/SynecdocheEdinburgh.md",
-    "Website/modular-community.md",
-    "Website/CloseStudio.md"
+    "Website/SynecdocheEdinburgh.md"
   ]
 }
