@@ -8,7 +8,7 @@
 		{"id":"f99247c04705ec49","x":-223,"y":-18,"width":250,"height":535,"type":"text","text":"技术\n\nAi的帮助：\n故事文案和角色背景可以用ChatGPT\n\n文字转图片场景可以用Dall-e作为人物形象和场景的实验。\n\n草图进一步加深加细节。\n\nChatGPT可以作为一个人物形象\n\n场景的动图化可以用ai\n\n\nUE场景：\n在基本确定场景后，可以用UE搭建，建立视频，作为阶段的大目标。这可以很好的再尝试探索画风细节和转化为类交互场景"},
 		{"id":"be3d339ffaa1fe99","x":347,"y":873,"width":287,"height":234,"type":"text","text":"下一个阶段：\n1. 一个人物和一个场景的加深\n2. 输出一个出效果的图"},
 		{"id":"c93d464375d76e8a","x":-223,"y":601,"width":250,"height":228,"type":"text","text":"理论支撑\n叙事建筑空间的方向，文字引导的场景和角色的形成。\n\n构建世界观的基本方式参考。从价值观和基本积极消极逻辑的思考。"},
-		{"id":"da88f26aa48bee79","x":-186,"y":-183,"width":250,"height":165,"type":"text","text":"https://www.bilibili.com/video/BV1Ax4y1u7QW/?spm_id_from=333.999.0.0&vd_source=dc58cdbca0135cf5159ec603ac619e3b"}
+		{"id":"da88f26aa48bee79","x":679,"y":283,"width":250,"height":165,"type":"text","text":"https://www.bilibili.com/video/BV1Ax4y1u7QW/?spm_id_from=333.999.0.0&vd_source=dc58cdbca0135cf5159ec603ac619e3b"}
 	],
 	"edges":[]
 }
